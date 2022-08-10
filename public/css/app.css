@@ -1,0 +1,18 @@
+header{
+    background-color: rgb(0, 0, 0);
+}
+.nav_links{
+    position: relative;
+    display: inline-block;
+}
+
+.nav_links a{
+    text-decoration: none;
+    color: white;
+}
+
+.nav_links:hover{
+    color: red;
+    opacity: 50%;
+    font-size: small;
+}
